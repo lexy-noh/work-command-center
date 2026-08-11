@@ -19,6 +19,15 @@ The system interprets those updates against the context you have already given i
 
 ---
 
+## Quick start
+
+1. Open the [Work Command Center Prompt](./work-command-center-prompt.md)
+2. Copy it into a new ChatGPT conversation or another context-aware LLM
+3. Start adding your real work as it happens
+4. Ask things like “What should I do today?”, “What am I forgetting?”, or “Give me a pulse check”
+
+---
+
 ## Why I built this
 
 Work rarely arrives neatly organized.
