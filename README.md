@@ -17,7 +17,7 @@ Instead of updating fields, statuses, and dashboards, you interact with it natur
 
 The system interprets those updates against the context you have already given it and helps track work, commitments, blockers, decisions, dependencies, and progress over time.
 
-![Work Command Center preview](./assets/work-command-center-preview.png)
+![Work Command Center](work-command-center-preview.png)
 
 ---
 
