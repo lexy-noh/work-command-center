@@ -1,4 +1,4 @@
-![Work Command Center preview](./assets/WMC-hero.png)
+![Work Command Center preview](assets/WMC-hero.png)
 
 # 💼 Work Command Center
 
