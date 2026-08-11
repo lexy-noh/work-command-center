@@ -1,5 +1,3 @@
-![Work Command Center preview](./assets/wmc-hero.png)
-
 # 💼 Work Command Center
 
 A natural-language work tracking system designed to turn everyday work context into an evolving source of truth.
@@ -18,6 +16,8 @@ Instead of updating fields, statuses, and dashboards, you interact with it natur
 * “Give me a pulse check.”
 
 The system interprets those updates against the context you have already given it and helps track work, commitments, blockers, decisions, dependencies, and progress over time.
+
+![Work Command Center preview](./assets/work-command-center-preview.png)
 
 ---
 
