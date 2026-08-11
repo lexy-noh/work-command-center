@@ -1,3 +1,5 @@
+![Work Command Center preview](./assets/WMC-hero.png)
+
 # 💼 Work Command Center
 
 A natural-language work tracking system designed to turn everyday work context into an evolving source of truth.
